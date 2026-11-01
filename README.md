@@ -32,6 +32,6 @@ Each module also has its own drone for specific tasks, such as:
 ## Link to the [author's YouTube channel](https://www.youtube.com/channel/UCRsIktIB6CPf7HCfjz8M3qg)
 
 ## Technical Implementation
-- Architecture: Data-Driven Design using JSON configuration schemas.
+- Architecture: Data-Driven Design using HJSON/JSON configuration schemas.
 - Systems Designed: Custom planet generation, named story sector progression, asymmetric unit/turret balance, custom technology tree with integrated narrative logs, and custom sprite/audio asset pipelines.
-- Installation: Import directly via the in-game Mindustry Mod Browser (`FriloFril/omega`) or clone into the local `mods/` directory.
+- Installation: Import directly via the in-game Mindustry Mod Browser (`FriloFril/Cobatstry`) or clone into the local `mods/` directory.
